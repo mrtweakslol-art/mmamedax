@@ -1,0 +1,6 @@
+{
+  "name": "MEMEDAX — AI-Powered Solana Memecoin Intelligence",
+  "description": "High-frequency Solana memecoin intelligence, deterministic quantitative analysis, NVIDIA GLM AI trade evaluation, and automated Auto Signals platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_NVIDIA_API"]
+}
